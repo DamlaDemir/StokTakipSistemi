@@ -1,11 +1,11 @@
 # Stok Takip Sistemi
 ## Giriş ##
 Bu döküman Celal Bayar Üniversitesi Hasan Ferdi Teknoloji Fakültesi Yazılım Mühendisliği Yazılım Sınama Dersi dönem projesi için hazırlanmıştır.Projenin amacı bir üniversite için Stok Takip sistemi geliştirmektir.Proje için Celal Bayar üniversitesi kısmi esas alınmıştır.
-Proje masaüstü windows tabanlı olarak C# ile Visual Studio ortamında Entitiy Framework yapısı ile MDI formlar kullanılarak hazırlanmıştır.
+Proje masaüstü windows tabanlı olarak C# ile Visual Studio ortamında Entity Framework yapısı ile MDI formlar kullanılarak hazırlanmıştır.
 ## Genel Bakış ##
-Proje Celal Bayar üniversitesinin  demirbaş satın alma,projede belirtilen fakülte,yüksekokul ve enstitülere demirbaş atama,denmirbaş silme,oda atama,odaya sorumlu atama gibi demirbaş işlemlerini kolaylaştırmayı hedeflemektedir.Proje de stok takipleri için SQL veri tabanı istemi kullanılmıştır.Veri tabanı projeye Entitiy Framework ile bağlanmıştır.
+Proje Celal Bayar üniversitesinin  demirbaş satın alma,projede belirtilen fakülte,yüksekokul ve enstitülere demirbaş atama,denmirbaş silme,oda atama,odaya sorumlu atama gibi demirbaş işlemlerini kolaylaştırmayı hedeflemektedir.Proje de stok takipleri için SQL veri tabanı  kullanılmıştır.Veri tabanı projeye Entity Framework ile bağlanmıştır.
 ## Test Yaklaşımı ##
-Bu projede masaüstü yazılım bileşenlerinin tamamı risk seviyelerine göre sınıflandırılmıştır.Projeyi test etmek için Black Box(Kara Kutu) ve White Box(Beyaz kutu) test yaklaşımları kullanılmıştır.
+Projeyi test etmek için Black Box(Kara Kutu) ve White Box(Beyaz kutu) test yaklaşımları kullanılmıştır.
 
 ## Ekran Görüntüleri ##
 
