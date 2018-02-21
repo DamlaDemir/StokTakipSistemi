@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="stokTakipdbModelStoreContainer" CdmEntityContainer="stokTakipdbEntities6">
+    <EntitySetMapping Name="Demirbas">
+      <EntityTypeMapping TypeName="stokTakipdbModel.Demirbas">
+        <MappingFragment StoreEntitySet="Demirbas">
+          <ScalarProperty Name="demirbasId" ColumnName="demirbasId" />
+          <ScalarProperty Name="demirbasAdi" ColumnName="demirbasAdi" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+          <ScalarProperty Name="alımTarihi" ColumnName="alımTarihi" />
+          <ScalarProperty Name="demirbasTuruId" ColumnName="demirbasTuruId" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="silindiMi" ColumnName="silindiMi" />
+          <ScalarProperty Name="model" ColumnName="model" />
+          <ScalarProperty Name="marka" ColumnName="marka" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DemirbasTur">
+      <EntityTypeMapping TypeName="stokTakipdbModel.DemirbasTur">
+        <MappingFragment StoreEntitySet="DemirbasTur">
+          <ScalarProperty Name="demirbasTuruId" ColumnName="demirbasTuruId" />
+          <ScalarProperty Name="demirbasTuruAdi" ColumnName="demirbasTuruAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departman">
+      <EntityTypeMapping TypeName="stokTakipdbModel.Departman">
+        <MappingFragment StoreEntitySet="Departman">
+          <ScalarProperty Name="departmanId" ColumnName="departmanId" />
+          <ScalarProperty Name="departmanAdi" ColumnName="departmanAdi" />
+          <ScalarProperty Name="fakulteId" ColumnName="fakulteId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Fakulte">
+      <EntityTypeMapping TypeName="stokTakipdbModel.Fakulte">
+        <MappingFragment StoreEntitySet="Fakulte">
+          <ScalarProperty Name="fakulteId" ColumnName="fakulteId" />
+          <ScalarProperty Name="fakulteAdi" ColumnName="fakulteAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kullanici">
+      <EntityTypeMapping TypeName="stokTakipdbModel.Kullanici">
+        <MappingFragment StoreEntitySet="Kullanici">
+          <ScalarProperty Name="kullaniciId" ColumnName="kullaniciId" />
+          <ScalarProperty Name="kullaniciAdi" ColumnName="kullaniciAdi" />
+          <ScalarProperty Name="Yetki" ColumnName="Yetki" />
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+          <ScalarProperty Name="personelId" ColumnName="personelId" />
+          <ScalarProperty Name="aktifMi" ColumnName="aktifMi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Oda">
+      <EntityTypeMapping TypeName="stokTakipdbModel.Oda">
+        <MappingFragment StoreEntitySet="Oda">
+          <ScalarProperty Name="odaId" ColumnName="odaId" />
+          <ScalarProperty Name="departmanId" ColumnName="departmanId" />
+          <ScalarProperty Name="odaKat" ColumnName="odaKat" />
+          <ScalarProperty Name="odaNumarasi" ColumnName="odaNumarasi" />
+          <ScalarProperty Name="personelId" ColumnName="personelId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OdaDemirbasAtama">
+      <EntityTypeMapping TypeName="stokTakipdbModel.OdaDemirbasAtama">
+        <MappingFragment StoreEntitySet="OdaDemirbasAtama">
+          <ScalarProperty Name="odaDemirbasId" ColumnName="odaDemirbasId" />
+          <ScalarProperty Name="odaId" ColumnName="odaId" />
+          <ScalarProperty Name="demirbasId" ColumnName="demirbasId" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="demirbasKodu" ColumnName="demirbasKodu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personel">
+      <EntityTypeMapping TypeName="stokTakipdbModel.Personel">
+        <MappingFragment StoreEntitySet="Personel">
+          <ScalarProperty Name="personelId" ColumnName="personelId" />
+          <ScalarProperty Name="personelAdi" ColumnName="personelAdi" />
+          <ScalarProperty Name="personelSoyadi" ColumnName="personelSoyadi" />
+          <ScalarProperty Name="personelSicilNo" ColumnName="personelSicilNo" />
+          <ScalarProperty Name="departmanId" ColumnName="departmanId" />
+          <ScalarProperty Name="fotograf" ColumnName="fotograf" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stok">
+      <EntityTypeMapping TypeName="stokTakipdbModel.Stok">
+        <MappingFragment StoreEntitySet="Stok">
+          <ScalarProperty Name="stokId" ColumnName="stokId" />
+          <ScalarProperty Name="demirbasId" ColumnName="demirbasId" />
+          <ScalarProperty Name="stokAdet" ColumnName="stokAdet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="stokTakipdbModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

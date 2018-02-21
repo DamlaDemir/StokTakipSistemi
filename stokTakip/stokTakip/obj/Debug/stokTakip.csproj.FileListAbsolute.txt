@@ -1,0 +1,66 @@
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\stokTakip.exe.config
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\stokTakip.exe
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\stokTakip.pdb
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\EntityFramework.dll
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\EntityFramework.xml
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.AnaEkran.resources
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.Giris.resources
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.Properties.Resources.resources
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.csproj.GenerateResource.Cache
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.exe
+c:\users\x556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.pdb
+C:\Users\X556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.OdaIslemleriEkrani.resources
+C:\Users\X556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.Ekranlar.PersonelIslemleriEkrani.resources
+C:\Users\X556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.Ekranlar.DemirbasIslemleriEkrani.resources
+C:\Users\X556\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.StokDemirbasIslemleriEkrani.resources
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.Ekranlar.Anasayfa.resources
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\stokTakip\bin\Debug\itextsharp.dll
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\stokTakip\bin\Debug\itextsharp.xml
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\stokTakip.exe.config
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.exe
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\stokTakip.exe
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\stokTakip.pdb
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\EntityFramework.dll
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\itextsharp.dll
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\EntityFramework.xml
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\itextsharp.xml
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Ekranlar.Anasayfa.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Ekranlar.DemirbasIslemleriEkrani.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.AnaEkran.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Giris.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Ekranlar.PersonelIslemleriEkrani.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.OdaIslemleriEkrani.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Properties.Resources.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.StokDemirbasIslemleriEkrani.resources
+C:\Users\X556\Desktop\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.csproj.GenerateResource.Cache
+E:\DERS\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\stokTakip.exe.config
+E:\DERS\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.exe
+E:\DERS\Yazılım Sınama\Ödevler\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.pdb
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\stokTakip.exe.config
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.exe
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.pdb
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\stokTakip.exe
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\stokTakip.pdb
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Ekranlar.Anasayfa.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Ekranlar.DemirbasIslemleriEkrani.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.AnaEkran.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Giris.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Ekranlar.PersonelIslemleriEkrani.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.OdaIslemleriEkrani.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.Properties.Resources.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.StokDemirbasIslemleriEkrani.resources
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\stokTakip\obj\Debug\stokTakip.csproj.GenerateResource.Cache

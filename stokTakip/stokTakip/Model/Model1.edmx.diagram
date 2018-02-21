@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="53e7a820a820496fbb5131470fb42b96" Name="Diagram1">
+        <EntityTypeShape EntityType="stokTakipdbModel.Demirbas" Width="1.5" PointX="7.5" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="stokTakipdbModel.DemirbasTur" Width="1.5" PointX="5.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="stokTakipdbModel.Departman" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="stokTakipdbModel.Fakulte" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="stokTakipdbModel.Kullanici" Width="1.5" PointX="7.5" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="stokTakipdbModel.Oda" Width="1.5" PointX="7.5" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="stokTakipdbModel.OdaDemirbasAtama" Width="1.5" PointX="9.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="stokTakipdbModel.Personel" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="stokTakipdbModel.Stok" Width="1.5" PointX="9.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="stokTakipdbModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <AssociationConnector Association="stokTakipdbModel.FK_Demirbas_DemirbasTur" ManuallyRouted="false" />
+        <AssociationConnector Association="stokTakipdbModel.FK_OdaDemirbasAtama_Demirbas" ManuallyRouted="false" />
+        <AssociationConnector Association="stokTakipdbModel.FK_Stok_Demirbas" ManuallyRouted="false" />
+        <AssociationConnector Association="stokTakipdbModel.FK_Departman_Fakulte" ManuallyRouted="false" />
+        <AssociationConnector Association="stokTakipdbModel.FK_Personel_Departman" ManuallyRouted="false" />
+        <AssociationConnector Association="stokTakipdbModel.FK_Kullanici_Personel" ManuallyRouted="false" />
+        <AssociationConnector Association="stokTakipdbModel.FK_Oda_Personel" ManuallyRouted="false" />
+        <AssociationConnector Association="stokTakipdbModel.FK_OdaDemirbasAtama_Oda" ManuallyRouted="false" />
+        <AssociationConnector Association="stokTakipdbModel.FK_Oda_Departman" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

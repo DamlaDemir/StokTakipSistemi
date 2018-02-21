@@ -1,0 +1,24 @@
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\bin\Debug\StokkTakipTest.dll
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\bin\Debug\StokkTakipTest.pdb
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\bin\Debug\stokTakip.exe
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\bin\Debug\itextsharp.dll
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\bin\Debug\EntityFramework.dll
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\bin\Debug\stokTakip.pdb
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\bin\Debug\itextsharp.xml
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\bin\Debug\EntityFramework.xml
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\obj\Debug\StokkTakipTest.csprojResolveAssemblyReference.cache
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\obj\Debug\StokkTakipTest.dll
+C:\Users\X556\Documents\Visual Studio 2015\Projects\stokTakip\StokkTakipTest\obj\Debug\StokkTakipTest.pdb
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\bin\Debug\StokkTakipTest.dll
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\bin\Debug\StokkTakipTest.pdb
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\bin\Debug\stokTakip.exe
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\bin\Debug\stokTakip.pdb
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\obj\Debug\StokkTakipTest.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\obj\Debug\StokkTakipTest.dll
+C:\Users\ASUS\Desktop\github\YazılımSınamaProje\stokTakip\StokkTakipTest\obj\Debug\StokkTakipTest.pdb
