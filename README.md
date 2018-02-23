@@ -10,5 +10,4 @@ Projeyi test etmek için Black Box(Kara Kutu) ve White Box(Beyaz kutu) test yakl
 ## Ekran Görüntüleri ##
 
 ![ekran görüntüsü 1](https://github.com/DamlaDemir/StokTakipSistemi/blob/master/stokTakip/Images/1.png)
-![ekran görüntüsü 2](https://github.com/DamlaDemir/StokTakipSistemi/blob/master/stokTakip/Images/2.png)
 ![ekran görüntüsü 3](https://github.com/DamlaDemir/StokTakipSistemi/blob/master/stokTakip/Images/3.png)
